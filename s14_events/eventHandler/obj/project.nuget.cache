@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dMtykgNRAmQLJRci1WqDjqPTxZIm1oUHz7OAy9IcZqpliEY5IWH4S2hzgdVBJQ07hrqnWawNEtLXOhGEeqxmZg==",
+  "dgSpecHash": "5UyhIL18zRAKj6RFq0vLIQkyukG8FDMRAMgQcySULftdOlrUeoD+7T7WsBmGQjUYfJKmzvDPHeJUsIHq+xKSNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\salla\\Documents\\c#\\s14_events\\eventHandler\\eventHandler.csproj",
+  "projectFilePath": "C:\\Users\\salla\\Documents\\c#\\c#_fundamentals_practice\\s14_events\\eventHandler\\eventHandler.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

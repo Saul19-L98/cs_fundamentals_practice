@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JPE/mrNFaT0noJ0qHyT036RwpGPQEvFNrejMwpbpsQlrl0ep6WuiewJS8RzIjfeXdGTJdwk1GC6k8XmFivqr+w==",
+  "dgSpecHash": "mhRxo6YZntS74lFwXds88JxxBKhvszwVFhQOfg71aYaEHgK3Zy/aBCYPzzzYADKoBz5hGICwhM/hhp5Kh9D1Cg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\salla\\Documents\\c#\\s14_events\\windowsDestopApp_example\\windowsDestopApp_example.csproj",
+  "projectFilePath": "C:\\Users\\salla\\Documents\\c#\\c#_fundamentals_practice\\s14_events\\windowsDestopApp_example\\windowsDestopApp_example.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YYuZPxthFvZy6u8N+xwSA5Mg/+e5iUYYYfrT401Xa4Hs2cSTUB9lrgSsXWiO7ickcY4Cjf5gvqIf0gVhGJxaPg==",
+  "dgSpecHash": "LsbPWuU1xVbauBAEYP24zFbdZRC6RJO2aq+RCf2D2BvJV6UcWd+cP4XLDsc4SrNHOrraQyL5hV0+itKmBWs7ug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\salla\\Documents\\c#\\s14_events\\memory_leak_example\\memory_leak_example.csproj",
+  "projectFilePath": "C:\\Users\\salla\\Documents\\c#\\c#_fundamentals_practice\\s14_events\\memory_leak_example\\memory_leak_example.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

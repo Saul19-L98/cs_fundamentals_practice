@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\salla\\Documents\\c#\\s14_events\\windowsDestopApp_example\\windowsDestopApp_example.csproj": {}
+    "C:\\Users\\salla\\Documents\\c#\\c#_fundamentals_practice\\s14_events\\windowsDestopApp_example\\windowsDestopApp_example.csproj": {}
   },
   "projects": {
-    "C:\\Users\\salla\\Documents\\c#\\s14_events\\windowsDestopApp_example\\windowsDestopApp_example.csproj": {
+    "C:\\Users\\salla\\Documents\\c#\\c#_fundamentals_practice\\s14_events\\windowsDestopApp_example\\windowsDestopApp_example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\salla\\Documents\\c#\\s14_events\\windowsDestopApp_example\\windowsDestopApp_example.csproj",
+        "projectUniqueName": "C:\\Users\\salla\\Documents\\c#\\c#_fundamentals_practice\\s14_events\\windowsDestopApp_example\\windowsDestopApp_example.csproj",
         "projectName": "windowsDestopApp_example",
-        "projectPath": "C:\\Users\\salla\\Documents\\c#\\s14_events\\windowsDestopApp_example\\windowsDestopApp_example.csproj",
+        "projectPath": "C:\\Users\\salla\\Documents\\c#\\c#_fundamentals_practice\\s14_events\\windowsDestopApp_example\\windowsDestopApp_example.csproj",
         "packagesPath": "C:\\Users\\salla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\salla\\Documents\\c#\\s14_events\\windowsDestopApp_example\\obj\\",
+        "outputPath": "C:\\Users\\salla\\Documents\\c#\\c#_fundamentals_practice\\s14_events\\windowsDestopApp_example\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\salla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
