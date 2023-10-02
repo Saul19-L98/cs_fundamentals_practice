@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\eventHandler"
   ],
+  "SelectedNode": "\\eventHandler\\eventHandler.csproj",
   "PreviewInSolutionExplorer": false
 }
