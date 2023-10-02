@@ -1,0 +1,14 @@
+C:\Users\salla\Documents\c#\s12_strings\encoding\bin\Debug\net7.0\encoding.exe
+C:\Users\salla\Documents\c#\s12_strings\encoding\bin\Debug\net7.0\encoding.deps.json
+C:\Users\salla\Documents\c#\s12_strings\encoding\bin\Debug\net7.0\encoding.runtimeconfig.json
+C:\Users\salla\Documents\c#\s12_strings\encoding\bin\Debug\net7.0\encoding.dll
+C:\Users\salla\Documents\c#\s12_strings\encoding\bin\Debug\net7.0\encoding.pdb
+C:\Users\salla\Documents\c#\s12_strings\encoding\obj\Debug\net7.0\encoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s12_strings\encoding\obj\Debug\net7.0\encoding.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s12_strings\encoding\obj\Debug\net7.0\encoding.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s12_strings\encoding\obj\Debug\net7.0\encoding.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s12_strings\encoding\obj\Debug\net7.0\encoding.dll
+C:\Users\salla\Documents\c#\s12_strings\encoding\obj\Debug\net7.0\refint\encoding.dll
+C:\Users\salla\Documents\c#\s12_strings\encoding\obj\Debug\net7.0\encoding.pdb
+C:\Users\salla\Documents\c#\s12_strings\encoding\obj\Debug\net7.0\encoding.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s12_strings\encoding\obj\Debug\net7.0\ref\encoding.dll

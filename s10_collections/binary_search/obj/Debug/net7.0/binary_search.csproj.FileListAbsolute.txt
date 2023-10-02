@@ -1,0 +1,14 @@
+C:\Users\salla\Documents\c#\s10_collections\binary_search\bin\Debug\net7.0\binary_search.exe
+C:\Users\salla\Documents\c#\s10_collections\binary_search\bin\Debug\net7.0\binary_search.deps.json
+C:\Users\salla\Documents\c#\s10_collections\binary_search\bin\Debug\net7.0\binary_search.runtimeconfig.json
+C:\Users\salla\Documents\c#\s10_collections\binary_search\bin\Debug\net7.0\binary_search.dll
+C:\Users\salla\Documents\c#\s10_collections\binary_search\bin\Debug\net7.0\binary_search.pdb
+C:\Users\salla\Documents\c#\s10_collections\binary_search\obj\Debug\net7.0\binary_search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s10_collections\binary_search\obj\Debug\net7.0\binary_search.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s10_collections\binary_search\obj\Debug\net7.0\binary_search.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s10_collections\binary_search\obj\Debug\net7.0\binary_search.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s10_collections\binary_search\obj\Debug\net7.0\binary_search.dll
+C:\Users\salla\Documents\c#\s10_collections\binary_search\obj\Debug\net7.0\refint\binary_search.dll
+C:\Users\salla\Documents\c#\s10_collections\binary_search\obj\Debug\net7.0\binary_search.pdb
+C:\Users\salla\Documents\c#\s10_collections\binary_search\obj\Debug\net7.0\binary_search.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s10_collections\binary_search\obj\Debug\net7.0\ref\binary_search.dll

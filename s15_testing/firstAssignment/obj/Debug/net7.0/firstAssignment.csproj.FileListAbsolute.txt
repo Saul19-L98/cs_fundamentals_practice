@@ -1,0 +1,14 @@
+C:\Users\salla\Documents\c#\s15_testing\firstAssignment\obj\Debug\net7.0\firstAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s15_testing\firstAssignment\obj\Debug\net7.0\firstAssignment.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s15_testing\firstAssignment\obj\Debug\net7.0\firstAssignment.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s15_testing\firstAssignment\obj\Debug\net7.0\firstAssignment.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s15_testing\firstAssignment\bin\Debug\net7.0\firstAssignment.exe
+C:\Users\salla\Documents\c#\s15_testing\firstAssignment\bin\Debug\net7.0\firstAssignment.deps.json
+C:\Users\salla\Documents\c#\s15_testing\firstAssignment\bin\Debug\net7.0\firstAssignment.runtimeconfig.json
+C:\Users\salla\Documents\c#\s15_testing\firstAssignment\bin\Debug\net7.0\firstAssignment.dll
+C:\Users\salla\Documents\c#\s15_testing\firstAssignment\bin\Debug\net7.0\firstAssignment.pdb
+C:\Users\salla\Documents\c#\s15_testing\firstAssignment\obj\Debug\net7.0\firstAssignment.dll
+C:\Users\salla\Documents\c#\s15_testing\firstAssignment\obj\Debug\net7.0\refint\firstAssignment.dll
+C:\Users\salla\Documents\c#\s15_testing\firstAssignment\obj\Debug\net7.0\firstAssignment.pdb
+C:\Users\salla\Documents\c#\s15_testing\firstAssignment\obj\Debug\net7.0\firstAssignment.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s15_testing\firstAssignment\obj\Debug\net7.0\ref\firstAssignment.dll

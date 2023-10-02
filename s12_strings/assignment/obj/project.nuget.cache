@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N8XQbDKh2d9KVnxVo5yPk47HJM7jlVXnKsB35cC/crQl5w1tjp+hL4HNSVyhJcilwMkckMOG5LqjjoqlloeAvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\salla\\Documents\\c#\\s12_strings\\assignment\\assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\salla\\.nuget\\packages\\pdfpig\\0.1.8\\pdfpig.0.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

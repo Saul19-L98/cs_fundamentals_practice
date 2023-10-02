@@ -1,0 +1,14 @@
+C:\Users\salla\Documents\c#\s12_strings\s12_strings\bin\Debug\net7.0\s12_strings.exe
+C:\Users\salla\Documents\c#\s12_strings\s12_strings\bin\Debug\net7.0\s12_strings.deps.json
+C:\Users\salla\Documents\c#\s12_strings\s12_strings\bin\Debug\net7.0\s12_strings.runtimeconfig.json
+C:\Users\salla\Documents\c#\s12_strings\s12_strings\bin\Debug\net7.0\s12_strings.dll
+C:\Users\salla\Documents\c#\s12_strings\s12_strings\bin\Debug\net7.0\s12_strings.pdb
+C:\Users\salla\Documents\c#\s12_strings\s12_strings\obj\Debug\net7.0\s12_strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s12_strings\s12_strings\obj\Debug\net7.0\s12_strings.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s12_strings\s12_strings\obj\Debug\net7.0\s12_strings.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s12_strings\s12_strings\obj\Debug\net7.0\s12_strings.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s12_strings\s12_strings\obj\Debug\net7.0\s12_strings.dll
+C:\Users\salla\Documents\c#\s12_strings\s12_strings\obj\Debug\net7.0\refint\s12_strings.dll
+C:\Users\salla\Documents\c#\s12_strings\s12_strings\obj\Debug\net7.0\s12_strings.pdb
+C:\Users\salla\Documents\c#\s12_strings\s12_strings\obj\Debug\net7.0\s12_strings.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s12_strings\s12_strings\obj\Debug\net7.0\ref\s12_strings.dll

@@ -1,0 +1,14 @@
+C:\Users\salla\Documents\c#\s14_events\events\bin\Debug\net7.0\events.exe
+C:\Users\salla\Documents\c#\s14_events\events\bin\Debug\net7.0\events.deps.json
+C:\Users\salla\Documents\c#\s14_events\events\bin\Debug\net7.0\events.runtimeconfig.json
+C:\Users\salla\Documents\c#\s14_events\events\bin\Debug\net7.0\events.dll
+C:\Users\salla\Documents\c#\s14_events\events\bin\Debug\net7.0\events.pdb
+C:\Users\salla\Documents\c#\s14_events\events\obj\Debug\net7.0\events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s14_events\events\obj\Debug\net7.0\events.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s14_events\events\obj\Debug\net7.0\events.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s14_events\events\obj\Debug\net7.0\events.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s14_events\events\obj\Debug\net7.0\events.dll
+C:\Users\salla\Documents\c#\s14_events\events\obj\Debug\net7.0\refint\events.dll
+C:\Users\salla\Documents\c#\s14_events\events\obj\Debug\net7.0\events.pdb
+C:\Users\salla\Documents\c#\s14_events\events\obj\Debug\net7.0\events.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s14_events\events\obj\Debug\net7.0\ref\events.dll

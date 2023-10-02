@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s6_generics\generics_constrains_numeric\bin\Debug\net7.0\generics_constrains_numeric.exe
+C:\Users\salla\Documents\c#\s6_generics\generics_constrains_numeric\bin\Debug\net7.0\generics_constrains_numeric.deps.json
+C:\Users\salla\Documents\c#\s6_generics\generics_constrains_numeric\bin\Debug\net7.0\generics_constrains_numeric.runtimeconfig.json
+C:\Users\salla\Documents\c#\s6_generics\generics_constrains_numeric\bin\Debug\net7.0\generics_constrains_numeric.dll
+C:\Users\salla\Documents\c#\s6_generics\generics_constrains_numeric\bin\Debug\net7.0\generics_constrains_numeric.pdb
+C:\Users\salla\Documents\c#\s6_generics\generics_constrains_numeric\obj\Debug\net7.0\generics_constrains_numeric.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s6_generics\generics_constrains_numeric\obj\Debug\net7.0\generics_constrains_numeric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s6_generics\generics_constrains_numeric\obj\Debug\net7.0\generics_constrains_numeric.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s6_generics\generics_constrains_numeric\obj\Debug\net7.0\generics_constrains_numeric.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s6_generics\generics_constrains_numeric\obj\Debug\net7.0\generics_constrains_numeric.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s6_generics\generics_constrains_numeric\obj\Debug\net7.0\generics_constrains_numeric.dll
+C:\Users\salla\Documents\c#\s6_generics\generics_constrains_numeric\obj\Debug\net7.0\refint\generics_constrains_numeric.dll
+C:\Users\salla\Documents\c#\s6_generics\generics_constrains_numeric\obj\Debug\net7.0\generics_constrains_numeric.pdb
+C:\Users\salla\Documents\c#\s6_generics\generics_constrains_numeric\obj\Debug\net7.0\generics_constrains_numeric.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s6_generics\generics_constrains_numeric\obj\Debug\net7.0\ref\generics_constrains_numeric.dll

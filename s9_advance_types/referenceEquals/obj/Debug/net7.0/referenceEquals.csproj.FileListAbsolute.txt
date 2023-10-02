@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s9_advance_types\referenceEquals\bin\Debug\net7.0\referenceEquals.exe
+C:\Users\salla\Documents\c#\s9_advance_types\referenceEquals\bin\Debug\net7.0\referenceEquals.deps.json
+C:\Users\salla\Documents\c#\s9_advance_types\referenceEquals\bin\Debug\net7.0\referenceEquals.runtimeconfig.json
+C:\Users\salla\Documents\c#\s9_advance_types\referenceEquals\bin\Debug\net7.0\referenceEquals.dll
+C:\Users\salla\Documents\c#\s9_advance_types\referenceEquals\bin\Debug\net7.0\referenceEquals.pdb
+C:\Users\salla\Documents\c#\s9_advance_types\referenceEquals\obj\Debug\net7.0\referenceEquals.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s9_advance_types\referenceEquals\obj\Debug\net7.0\referenceEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s9_advance_types\referenceEquals\obj\Debug\net7.0\referenceEquals.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s9_advance_types\referenceEquals\obj\Debug\net7.0\referenceEquals.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s9_advance_types\referenceEquals\obj\Debug\net7.0\referenceEquals.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s9_advance_types\referenceEquals\obj\Debug\net7.0\referenceEquals.dll
+C:\Users\salla\Documents\c#\s9_advance_types\referenceEquals\obj\Debug\net7.0\refint\referenceEquals.dll
+C:\Users\salla\Documents\c#\s9_advance_types\referenceEquals\obj\Debug\net7.0\referenceEquals.pdb
+C:\Users\salla\Documents\c#\s9_advance_types\referenceEquals\obj\Debug\net7.0\referenceEquals.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s9_advance_types\referenceEquals\obj\Debug\net7.0\ref\referenceEquals.dll

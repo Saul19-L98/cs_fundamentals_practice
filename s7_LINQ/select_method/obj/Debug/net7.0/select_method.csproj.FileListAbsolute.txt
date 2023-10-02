@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s7_LINQ\select_method\bin\Debug\net7.0\select_method.exe
+C:\Users\salla\Documents\c#\s7_LINQ\select_method\bin\Debug\net7.0\select_method.deps.json
+C:\Users\salla\Documents\c#\s7_LINQ\select_method\bin\Debug\net7.0\select_method.runtimeconfig.json
+C:\Users\salla\Documents\c#\s7_LINQ\select_method\bin\Debug\net7.0\select_method.dll
+C:\Users\salla\Documents\c#\s7_LINQ\select_method\bin\Debug\net7.0\select_method.pdb
+C:\Users\salla\Documents\c#\s7_LINQ\select_method\obj\Debug\net7.0\select_method.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s7_LINQ\select_method\obj\Debug\net7.0\select_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s7_LINQ\select_method\obj\Debug\net7.0\select_method.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s7_LINQ\select_method\obj\Debug\net7.0\select_method.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s7_LINQ\select_method\obj\Debug\net7.0\select_method.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s7_LINQ\select_method\obj\Debug\net7.0\select_method.dll
+C:\Users\salla\Documents\c#\s7_LINQ\select_method\obj\Debug\net7.0\refint\select_method.dll
+C:\Users\salla\Documents\c#\s7_LINQ\select_method\obj\Debug\net7.0\select_method.pdb
+C:\Users\salla\Documents\c#\s7_LINQ\select_method\obj\Debug\net7.0\select_method.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s7_LINQ\select_method\obj\Debug\net7.0\ref\select_method.dll

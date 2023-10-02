@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s9_advance_types\quering_apis\bin\Debug\net7.0\quering_apis.exe
+C:\Users\salla\Documents\c#\s9_advance_types\quering_apis\bin\Debug\net7.0\quering_apis.deps.json
+C:\Users\salla\Documents\c#\s9_advance_types\quering_apis\bin\Debug\net7.0\quering_apis.runtimeconfig.json
+C:\Users\salla\Documents\c#\s9_advance_types\quering_apis\bin\Debug\net7.0\quering_apis.dll
+C:\Users\salla\Documents\c#\s9_advance_types\quering_apis\bin\Debug\net7.0\quering_apis.pdb
+C:\Users\salla\Documents\c#\s9_advance_types\quering_apis\obj\Debug\net7.0\quering_apis.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s9_advance_types\quering_apis\obj\Debug\net7.0\quering_apis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s9_advance_types\quering_apis\obj\Debug\net7.0\quering_apis.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s9_advance_types\quering_apis\obj\Debug\net7.0\quering_apis.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s9_advance_types\quering_apis\obj\Debug\net7.0\quering_apis.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s9_advance_types\quering_apis\obj\Debug\net7.0\quering_apis.dll
+C:\Users\salla\Documents\c#\s9_advance_types\quering_apis\obj\Debug\net7.0\refint\quering_apis.dll
+C:\Users\salla\Documents\c#\s9_advance_types\quering_apis\obj\Debug\net7.0\quering_apis.pdb
+C:\Users\salla\Documents\c#\s9_advance_types\quering_apis\obj\Debug\net7.0\quering_apis.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s9_advance_types\quering_apis\obj\Debug\net7.0\ref\quering_apis.dll

@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s6_generics\strategy_design_patter\bin\Debug\net7.0\strategy_design_patter.exe
+C:\Users\salla\Documents\c#\s6_generics\strategy_design_patter\bin\Debug\net7.0\strategy_design_patter.deps.json
+C:\Users\salla\Documents\c#\s6_generics\strategy_design_patter\bin\Debug\net7.0\strategy_design_patter.runtimeconfig.json
+C:\Users\salla\Documents\c#\s6_generics\strategy_design_patter\bin\Debug\net7.0\strategy_design_patter.dll
+C:\Users\salla\Documents\c#\s6_generics\strategy_design_patter\bin\Debug\net7.0\strategy_design_patter.pdb
+C:\Users\salla\Documents\c#\s6_generics\strategy_design_patter\obj\Debug\net7.0\strategy_design_patter.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s6_generics\strategy_design_patter\obj\Debug\net7.0\strategy_design_patter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s6_generics\strategy_design_patter\obj\Debug\net7.0\strategy_design_patter.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s6_generics\strategy_design_patter\obj\Debug\net7.0\strategy_design_patter.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s6_generics\strategy_design_patter\obj\Debug\net7.0\strategy_design_patter.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s6_generics\strategy_design_patter\obj\Debug\net7.0\strategy_design_patter.dll
+C:\Users\salla\Documents\c#\s6_generics\strategy_design_patter\obj\Debug\net7.0\refint\strategy_design_patter.dll
+C:\Users\salla\Documents\c#\s6_generics\strategy_design_patter\obj\Debug\net7.0\strategy_design_patter.pdb
+C:\Users\salla\Documents\c#\s6_generics\strategy_design_patter\obj\Debug\net7.0\strategy_design_patter.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s6_generics\strategy_design_patter\obj\Debug\net7.0\ref\strategy_design_patter.dll

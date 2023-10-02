@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s7_LINQ\linq_extension_methods\bin\Debug\net7.0\linq_extension_methods.exe
+C:\Users\salla\Documents\c#\s7_LINQ\linq_extension_methods\bin\Debug\net7.0\linq_extension_methods.deps.json
+C:\Users\salla\Documents\c#\s7_LINQ\linq_extension_methods\bin\Debug\net7.0\linq_extension_methods.runtimeconfig.json
+C:\Users\salla\Documents\c#\s7_LINQ\linq_extension_methods\bin\Debug\net7.0\linq_extension_methods.dll
+C:\Users\salla\Documents\c#\s7_LINQ\linq_extension_methods\bin\Debug\net7.0\linq_extension_methods.pdb
+C:\Users\salla\Documents\c#\s7_LINQ\linq_extension_methods\obj\Debug\net7.0\linq_extension_methods.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s7_LINQ\linq_extension_methods\obj\Debug\net7.0\linq_extension_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s7_LINQ\linq_extension_methods\obj\Debug\net7.0\linq_extension_methods.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s7_LINQ\linq_extension_methods\obj\Debug\net7.0\linq_extension_methods.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s7_LINQ\linq_extension_methods\obj\Debug\net7.0\linq_extension_methods.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s7_LINQ\linq_extension_methods\obj\Debug\net7.0\linq_extension_methods.dll
+C:\Users\salla\Documents\c#\s7_LINQ\linq_extension_methods\obj\Debug\net7.0\refint\linq_extension_methods.dll
+C:\Users\salla\Documents\c#\s7_LINQ\linq_extension_methods\obj\Debug\net7.0\linq_extension_methods.pdb
+C:\Users\salla\Documents\c#\s7_LINQ\linq_extension_methods\obj\Debug\net7.0\linq_extension_methods.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s7_LINQ\linq_extension_methods\obj\Debug\net7.0\ref\linq_extension_methods.dll

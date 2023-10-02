@@ -1,0 +1,14 @@
+C:\Users\salla\Documents\c#\s10_collections\yield_statement\bin\Debug\net7.0\yield_statement.exe
+C:\Users\salla\Documents\c#\s10_collections\yield_statement\bin\Debug\net7.0\yield_statement.deps.json
+C:\Users\salla\Documents\c#\s10_collections\yield_statement\bin\Debug\net7.0\yield_statement.runtimeconfig.json
+C:\Users\salla\Documents\c#\s10_collections\yield_statement\bin\Debug\net7.0\yield_statement.dll
+C:\Users\salla\Documents\c#\s10_collections\yield_statement\bin\Debug\net7.0\yield_statement.pdb
+C:\Users\salla\Documents\c#\s10_collections\yield_statement\obj\Debug\net7.0\yield_statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s10_collections\yield_statement\obj\Debug\net7.0\yield_statement.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s10_collections\yield_statement\obj\Debug\net7.0\yield_statement.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s10_collections\yield_statement\obj\Debug\net7.0\yield_statement.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s10_collections\yield_statement\obj\Debug\net7.0\yield_statement.dll
+C:\Users\salla\Documents\c#\s10_collections\yield_statement\obj\Debug\net7.0\refint\yield_statement.dll
+C:\Users\salla\Documents\c#\s10_collections\yield_statement\obj\Debug\net7.0\yield_statement.pdb
+C:\Users\salla\Documents\c#\s10_collections\yield_statement\obj\Debug\net7.0\yield_statement.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s10_collections\yield_statement\obj\Debug\net7.0\ref\yield_statement.dll

@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s9_advance_types\records\bin\Debug\net7.0\records.exe
+C:\Users\salla\Documents\c#\s9_advance_types\records\bin\Debug\net7.0\records.deps.json
+C:\Users\salla\Documents\c#\s9_advance_types\records\bin\Debug\net7.0\records.runtimeconfig.json
+C:\Users\salla\Documents\c#\s9_advance_types\records\bin\Debug\net7.0\records.dll
+C:\Users\salla\Documents\c#\s9_advance_types\records\bin\Debug\net7.0\records.pdb
+C:\Users\salla\Documents\c#\s9_advance_types\records\obj\Debug\net7.0\records.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s9_advance_types\records\obj\Debug\net7.0\records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s9_advance_types\records\obj\Debug\net7.0\records.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s9_advance_types\records\obj\Debug\net7.0\records.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s9_advance_types\records\obj\Debug\net7.0\records.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s9_advance_types\records\obj\Debug\net7.0\records.dll
+C:\Users\salla\Documents\c#\s9_advance_types\records\obj\Debug\net7.0\refint\records.dll
+C:\Users\salla\Documents\c#\s9_advance_types\records\obj\Debug\net7.0\records.pdb
+C:\Users\salla\Documents\c#\s9_advance_types\records\obj\Debug\net7.0\records.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s9_advance_types\records\obj\Debug\net7.0\ref\records.dll

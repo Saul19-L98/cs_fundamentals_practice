@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s6_generics\dictionary_practice\bin\Debug\net7.0\dictionary_practice.exe
+C:\Users\salla\Documents\c#\s6_generics\dictionary_practice\bin\Debug\net7.0\dictionary_practice.deps.json
+C:\Users\salla\Documents\c#\s6_generics\dictionary_practice\bin\Debug\net7.0\dictionary_practice.runtimeconfig.json
+C:\Users\salla\Documents\c#\s6_generics\dictionary_practice\bin\Debug\net7.0\dictionary_practice.dll
+C:\Users\salla\Documents\c#\s6_generics\dictionary_practice\bin\Debug\net7.0\dictionary_practice.pdb
+C:\Users\salla\Documents\c#\s6_generics\dictionary_practice\obj\Debug\net7.0\dictionary_practice.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s6_generics\dictionary_practice\obj\Debug\net7.0\dictionary_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s6_generics\dictionary_practice\obj\Debug\net7.0\dictionary_practice.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s6_generics\dictionary_practice\obj\Debug\net7.0\dictionary_practice.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s6_generics\dictionary_practice\obj\Debug\net7.0\dictionary_practice.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s6_generics\dictionary_practice\obj\Debug\net7.0\dictionary_practice.dll
+C:\Users\salla\Documents\c#\s6_generics\dictionary_practice\obj\Debug\net7.0\refint\dictionary_practice.dll
+C:\Users\salla\Documents\c#\s6_generics\dictionary_practice\obj\Debug\net7.0\dictionary_practice.pdb
+C:\Users\salla\Documents\c#\s6_generics\dictionary_practice\obj\Debug\net7.0\dictionary_practice.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s6_generics\dictionary_practice\obj\Debug\net7.0\ref\dictionary_practice.dll

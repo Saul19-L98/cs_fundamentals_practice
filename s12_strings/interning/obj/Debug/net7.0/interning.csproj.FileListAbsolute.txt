@@ -1,0 +1,14 @@
+C:\Users\salla\Documents\c#\s12_strings\interning\bin\Debug\net7.0\interning.exe
+C:\Users\salla\Documents\c#\s12_strings\interning\bin\Debug\net7.0\interning.deps.json
+C:\Users\salla\Documents\c#\s12_strings\interning\bin\Debug\net7.0\interning.runtimeconfig.json
+C:\Users\salla\Documents\c#\s12_strings\interning\bin\Debug\net7.0\interning.dll
+C:\Users\salla\Documents\c#\s12_strings\interning\bin\Debug\net7.0\interning.pdb
+C:\Users\salla\Documents\c#\s12_strings\interning\obj\Debug\net7.0\interning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s12_strings\interning\obj\Debug\net7.0\interning.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s12_strings\interning\obj\Debug\net7.0\interning.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s12_strings\interning\obj\Debug\net7.0\interning.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s12_strings\interning\obj\Debug\net7.0\interning.dll
+C:\Users\salla\Documents\c#\s12_strings\interning\obj\Debug\net7.0\refint\interning.dll
+C:\Users\salla\Documents\c#\s12_strings\interning\obj\Debug\net7.0\interning.pdb
+C:\Users\salla\Documents\c#\s12_strings\interning\obj\Debug\net7.0\interning.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s12_strings\interning\obj\Debug\net7.0\ref\interning.dll

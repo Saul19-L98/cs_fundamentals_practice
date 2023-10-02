@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s8_net\ref_modifier_parameter\bin\Debug\net7.0\ref_modifier_parameter.exe
+C:\Users\salla\Documents\c#\s8_net\ref_modifier_parameter\bin\Debug\net7.0\ref_modifier_parameter.deps.json
+C:\Users\salla\Documents\c#\s8_net\ref_modifier_parameter\bin\Debug\net7.0\ref_modifier_parameter.runtimeconfig.json
+C:\Users\salla\Documents\c#\s8_net\ref_modifier_parameter\bin\Debug\net7.0\ref_modifier_parameter.dll
+C:\Users\salla\Documents\c#\s8_net\ref_modifier_parameter\bin\Debug\net7.0\ref_modifier_parameter.pdb
+C:\Users\salla\Documents\c#\s8_net\ref_modifier_parameter\obj\Debug\net7.0\ref_modifier_parameter.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s8_net\ref_modifier_parameter\obj\Debug\net7.0\ref_modifier_parameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s8_net\ref_modifier_parameter\obj\Debug\net7.0\ref_modifier_parameter.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s8_net\ref_modifier_parameter\obj\Debug\net7.0\ref_modifier_parameter.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s8_net\ref_modifier_parameter\obj\Debug\net7.0\ref_modifier_parameter.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s8_net\ref_modifier_parameter\obj\Debug\net7.0\ref_modifier_parameter.dll
+C:\Users\salla\Documents\c#\s8_net\ref_modifier_parameter\obj\Debug\net7.0\refint\ref_modifier_parameter.dll
+C:\Users\salla\Documents\c#\s8_net\ref_modifier_parameter\obj\Debug\net7.0\ref_modifier_parameter.pdb
+C:\Users\salla\Documents\c#\s8_net\ref_modifier_parameter\obj\Debug\net7.0\ref_modifier_parameter.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s8_net\ref_modifier_parameter\obj\Debug\net7.0\ref\ref_modifier_parameter.dll

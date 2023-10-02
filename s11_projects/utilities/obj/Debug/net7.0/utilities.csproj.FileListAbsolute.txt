@@ -1,0 +1,11 @@
+C:\Users\salla\Documents\c#\s11_projects\utilities\bin\Debug\net7.0\utilities.deps.json
+C:\Users\salla\Documents\c#\s11_projects\utilities\bin\Debug\net7.0\utilities.dll
+C:\Users\salla\Documents\c#\s11_projects\utilities\bin\Debug\net7.0\utilities.pdb
+C:\Users\salla\Documents\c#\s11_projects\utilities\obj\Debug\net7.0\utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s11_projects\utilities\obj\Debug\net7.0\utilities.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s11_projects\utilities\obj\Debug\net7.0\utilities.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s11_projects\utilities\obj\Debug\net7.0\utilities.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s11_projects\utilities\obj\Debug\net7.0\utilities.dll
+C:\Users\salla\Documents\c#\s11_projects\utilities\obj\Debug\net7.0\refint\utilities.dll
+C:\Users\salla\Documents\c#\s11_projects\utilities\obj\Debug\net7.0\utilities.pdb
+C:\Users\salla\Documents\c#\s11_projects\utilities\obj\Debug\net7.0\ref\utilities.dll

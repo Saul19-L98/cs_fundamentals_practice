@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "s14_events", "s14_events\s14_events.csproj", "{027D91D8-56C1-4FA5-9695-D48C2E9C7C2B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "events", "events\events.csproj", "{1CB335FA-D6BF-4A55-825F-E1E386983243}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eventHandler", "eventHandler\eventHandler.csproj", "{EE0FADBA-5600-4F36-B575-F2CE126A51E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "memory_leak_example", "memory_leak_example\memory_leak_example.csproj", "{1010212C-D306-4724-842F-A3CF2D732BA6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "windowsDestopApp_example", "windowsDestopApp_example\windowsDestopApp_example.csproj", "{E4580363-AAB9-4A3E-9D5A-06FCF1953C85}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "assignment", "assignment\assignment.csproj", "{9DDE6670-29F0-4FED-A0E4-C13CD64AB690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assignment_solution", "assignment_solution\assignment_solution.csproj", "{5BCE4252-E84C-406E-BFF5-4C6A8EB65981}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{027D91D8-56C1-4FA5-9695-D48C2E9C7C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027D91D8-56C1-4FA5-9695-D48C2E9C7C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027D91D8-56C1-4FA5-9695-D48C2E9C7C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027D91D8-56C1-4FA5-9695-D48C2E9C7C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CB335FA-D6BF-4A55-825F-E1E386983243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB335FA-D6BF-4A55-825F-E1E386983243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB335FA-D6BF-4A55-825F-E1E386983243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB335FA-D6BF-4A55-825F-E1E386983243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE0FADBA-5600-4F36-B575-F2CE126A51E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0FADBA-5600-4F36-B575-F2CE126A51E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0FADBA-5600-4F36-B575-F2CE126A51E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0FADBA-5600-4F36-B575-F2CE126A51E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1010212C-D306-4724-842F-A3CF2D732BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1010212C-D306-4724-842F-A3CF2D732BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1010212C-D306-4724-842F-A3CF2D732BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1010212C-D306-4724-842F-A3CF2D732BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4580363-AAB9-4A3E-9D5A-06FCF1953C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4580363-AAB9-4A3E-9D5A-06FCF1953C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4580363-AAB9-4A3E-9D5A-06FCF1953C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4580363-AAB9-4A3E-9D5A-06FCF1953C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DDE6670-29F0-4FED-A0E4-C13CD64AB690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDE6670-29F0-4FED-A0E4-C13CD64AB690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDE6670-29F0-4FED-A0E4-C13CD64AB690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDE6670-29F0-4FED-A0E4-C13CD64AB690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BCE4252-E84C-406E-BFF5-4C6A8EB65981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BCE4252-E84C-406E-BFF5-4C6A8EB65981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BCE4252-E84C-406E-BFF5-4C6A8EB65981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BCE4252-E84C-406E-BFF5-4C6A8EB65981}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEB33C57-0BD3-463C-9BEE-C60968A5AD6A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\salla\Documents\c#\s10_collections\list\bin\Debug\net7.0\list.exe
+C:\Users\salla\Documents\c#\s10_collections\list\bin\Debug\net7.0\list.deps.json
+C:\Users\salla\Documents\c#\s10_collections\list\bin\Debug\net7.0\list.runtimeconfig.json
+C:\Users\salla\Documents\c#\s10_collections\list\bin\Debug\net7.0\list.dll
+C:\Users\salla\Documents\c#\s10_collections\list\bin\Debug\net7.0\list.pdb
+C:\Users\salla\Documents\c#\s10_collections\list\obj\Debug\net7.0\list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s10_collections\list\obj\Debug\net7.0\list.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s10_collections\list\obj\Debug\net7.0\list.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s10_collections\list\obj\Debug\net7.0\list.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s10_collections\list\obj\Debug\net7.0\list.dll
+C:\Users\salla\Documents\c#\s10_collections\list\obj\Debug\net7.0\refint\list.dll
+C:\Users\salla\Documents\c#\s10_collections\list\obj\Debug\net7.0\list.pdb
+C:\Users\salla\Documents\c#\s10_collections\list\obj\Debug\net7.0\list.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s10_collections\list\obj\Debug\net7.0\ref\list.dll

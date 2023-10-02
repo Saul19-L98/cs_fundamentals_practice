@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s6_generics\tuples_example\bin\Debug\net6.0\tuples_example.exe
+C:\Users\salla\Documents\c#\s6_generics\tuples_example\bin\Debug\net6.0\tuples_example.deps.json
+C:\Users\salla\Documents\c#\s6_generics\tuples_example\bin\Debug\net6.0\tuples_example.runtimeconfig.json
+C:\Users\salla\Documents\c#\s6_generics\tuples_example\bin\Debug\net6.0\tuples_example.dll
+C:\Users\salla\Documents\c#\s6_generics\tuples_example\bin\Debug\net6.0\tuples_example.pdb
+C:\Users\salla\Documents\c#\s6_generics\tuples_example\obj\Debug\net6.0\tuples_example.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s6_generics\tuples_example\obj\Debug\net6.0\tuples_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s6_generics\tuples_example\obj\Debug\net6.0\tuples_example.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s6_generics\tuples_example\obj\Debug\net6.0\tuples_example.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s6_generics\tuples_example\obj\Debug\net6.0\tuples_example.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s6_generics\tuples_example\obj\Debug\net6.0\tuples_example.dll
+C:\Users\salla\Documents\c#\s6_generics\tuples_example\obj\Debug\net6.0\refint\tuples_example.dll
+C:\Users\salla\Documents\c#\s6_generics\tuples_example\obj\Debug\net6.0\tuples_example.pdb
+C:\Users\salla\Documents\c#\s6_generics\tuples_example\obj\Debug\net6.0\tuples_example.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s6_generics\tuples_example\obj\Debug\net6.0\ref\tuples_example.dll

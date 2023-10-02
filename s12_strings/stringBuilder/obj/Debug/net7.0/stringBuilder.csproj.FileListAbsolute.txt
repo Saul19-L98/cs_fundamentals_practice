@@ -1,0 +1,14 @@
+C:\Users\salla\Documents\c#\s12_strings\stringBuilder\bin\Debug\net7.0\stringBuilder.exe
+C:\Users\salla\Documents\c#\s12_strings\stringBuilder\bin\Debug\net7.0\stringBuilder.deps.json
+C:\Users\salla\Documents\c#\s12_strings\stringBuilder\bin\Debug\net7.0\stringBuilder.runtimeconfig.json
+C:\Users\salla\Documents\c#\s12_strings\stringBuilder\bin\Debug\net7.0\stringBuilder.dll
+C:\Users\salla\Documents\c#\s12_strings\stringBuilder\bin\Debug\net7.0\stringBuilder.pdb
+C:\Users\salla\Documents\c#\s12_strings\stringBuilder\obj\Debug\net7.0\stringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s12_strings\stringBuilder\obj\Debug\net7.0\stringBuilder.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s12_strings\stringBuilder\obj\Debug\net7.0\stringBuilder.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s12_strings\stringBuilder\obj\Debug\net7.0\stringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s12_strings\stringBuilder\obj\Debug\net7.0\stringBuilder.dll
+C:\Users\salla\Documents\c#\s12_strings\stringBuilder\obj\Debug\net7.0\refint\stringBuilder.dll
+C:\Users\salla\Documents\c#\s12_strings\stringBuilder\obj\Debug\net7.0\stringBuilder.pdb
+C:\Users\salla\Documents\c#\s12_strings\stringBuilder\obj\Debug\net7.0\stringBuilder.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s12_strings\stringBuilder\obj\Debug\net7.0\ref\stringBuilder.dll

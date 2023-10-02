@@ -1,0 +1,14 @@
+C:\Users\salla\Documents\c#\s15_testing\DiceGame\obj\Debug\net7.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s15_testing\DiceGame\obj\Debug\net7.0\DiceGame.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s15_testing\DiceGame\obj\Debug\net7.0\DiceGame.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s15_testing\DiceGame\obj\Debug\net7.0\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s15_testing\DiceGame\bin\Debug\net7.0\DiceGame.exe
+C:\Users\salla\Documents\c#\s15_testing\DiceGame\bin\Debug\net7.0\DiceGame.deps.json
+C:\Users\salla\Documents\c#\s15_testing\DiceGame\bin\Debug\net7.0\DiceGame.runtimeconfig.json
+C:\Users\salla\Documents\c#\s15_testing\DiceGame\bin\Debug\net7.0\DiceGame.dll
+C:\Users\salla\Documents\c#\s15_testing\DiceGame\bin\Debug\net7.0\DiceGame.pdb
+C:\Users\salla\Documents\c#\s15_testing\DiceGame\obj\Debug\net7.0\DiceGame.dll
+C:\Users\salla\Documents\c#\s15_testing\DiceGame\obj\Debug\net7.0\refint\DiceGame.dll
+C:\Users\salla\Documents\c#\s15_testing\DiceGame\obj\Debug\net7.0\DiceGame.pdb
+C:\Users\salla\Documents\c#\s15_testing\DiceGame\obj\Debug\net7.0\DiceGame.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s15_testing\DiceGame\obj\Debug\net7.0\ref\DiceGame.dll

@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s9_advance_types\structs\bin\Debug\net7.0\structs.exe
+C:\Users\salla\Documents\c#\s9_advance_types\structs\bin\Debug\net7.0\structs.deps.json
+C:\Users\salla\Documents\c#\s9_advance_types\structs\bin\Debug\net7.0\structs.runtimeconfig.json
+C:\Users\salla\Documents\c#\s9_advance_types\structs\bin\Debug\net7.0\structs.dll
+C:\Users\salla\Documents\c#\s9_advance_types\structs\bin\Debug\net7.0\structs.pdb
+C:\Users\salla\Documents\c#\s9_advance_types\structs\obj\Debug\net7.0\structs.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s9_advance_types\structs\obj\Debug\net7.0\structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s9_advance_types\structs\obj\Debug\net7.0\structs.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s9_advance_types\structs\obj\Debug\net7.0\structs.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s9_advance_types\structs\obj\Debug\net7.0\structs.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s9_advance_types\structs\obj\Debug\net7.0\structs.dll
+C:\Users\salla\Documents\c#\s9_advance_types\structs\obj\Debug\net7.0\refint\structs.dll
+C:\Users\salla\Documents\c#\s9_advance_types\structs\obj\Debug\net7.0\structs.pdb
+C:\Users\salla\Documents\c#\s9_advance_types\structs\obj\Debug\net7.0\structs.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s9_advance_types\structs\obj\Debug\net7.0\ref\structs.dll

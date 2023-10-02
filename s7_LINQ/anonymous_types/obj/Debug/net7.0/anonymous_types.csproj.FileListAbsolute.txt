@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s7_LINQ\anonymous_types\bin\Debug\net7.0\anonymous_types.exe
+C:\Users\salla\Documents\c#\s7_LINQ\anonymous_types\bin\Debug\net7.0\anonymous_types.deps.json
+C:\Users\salla\Documents\c#\s7_LINQ\anonymous_types\bin\Debug\net7.0\anonymous_types.runtimeconfig.json
+C:\Users\salla\Documents\c#\s7_LINQ\anonymous_types\bin\Debug\net7.0\anonymous_types.dll
+C:\Users\salla\Documents\c#\s7_LINQ\anonymous_types\bin\Debug\net7.0\anonymous_types.pdb
+C:\Users\salla\Documents\c#\s7_LINQ\anonymous_types\obj\Debug\net7.0\anonymous_types.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s7_LINQ\anonymous_types\obj\Debug\net7.0\anonymous_types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s7_LINQ\anonymous_types\obj\Debug\net7.0\anonymous_types.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s7_LINQ\anonymous_types\obj\Debug\net7.0\anonymous_types.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s7_LINQ\anonymous_types\obj\Debug\net7.0\anonymous_types.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s7_LINQ\anonymous_types\obj\Debug\net7.0\anonymous_types.dll
+C:\Users\salla\Documents\c#\s7_LINQ\anonymous_types\obj\Debug\net7.0\refint\anonymous_types.dll
+C:\Users\salla\Documents\c#\s7_LINQ\anonymous_types\obj\Debug\net7.0\anonymous_types.pdb
+C:\Users\salla\Documents\c#\s7_LINQ\anonymous_types\obj\Debug\net7.0\anonymous_types.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s7_LINQ\anonymous_types\obj\Debug\net7.0\ref\anonymous_types.dll

@@ -1,0 +1,14 @@
+C:\Users\salla\Documents\c#\s13_numericType\s13_numericType\bin\Debug\net7.0\s13_numericType.exe
+C:\Users\salla\Documents\c#\s13_numericType\s13_numericType\bin\Debug\net7.0\s13_numericType.deps.json
+C:\Users\salla\Documents\c#\s13_numericType\s13_numericType\bin\Debug\net7.0\s13_numericType.runtimeconfig.json
+C:\Users\salla\Documents\c#\s13_numericType\s13_numericType\bin\Debug\net7.0\s13_numericType.dll
+C:\Users\salla\Documents\c#\s13_numericType\s13_numericType\bin\Debug\net7.0\s13_numericType.pdb
+C:\Users\salla\Documents\c#\s13_numericType\s13_numericType\obj\Debug\net7.0\s13_numericType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s13_numericType\s13_numericType\obj\Debug\net7.0\s13_numericType.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s13_numericType\s13_numericType\obj\Debug\net7.0\s13_numericType.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s13_numericType\s13_numericType\obj\Debug\net7.0\s13_numericType.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s13_numericType\s13_numericType\obj\Debug\net7.0\s13_numericType.dll
+C:\Users\salla\Documents\c#\s13_numericType\s13_numericType\obj\Debug\net7.0\refint\s13_numericType.dll
+C:\Users\salla\Documents\c#\s13_numericType\s13_numericType\obj\Debug\net7.0\s13_numericType.pdb
+C:\Users\salla\Documents\c#\s13_numericType\s13_numericType\obj\Debug\net7.0\s13_numericType.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s13_numericType\s13_numericType\obj\Debug\net7.0\ref\s13_numericType.dll

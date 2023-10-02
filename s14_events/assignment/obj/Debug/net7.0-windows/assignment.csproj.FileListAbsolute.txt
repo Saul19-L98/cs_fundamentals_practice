@@ -1,0 +1,16 @@
+C:\Users\salla\Documents\c#\s14_events\assignment\bin\Debug\net7.0-windows\assignment.exe
+C:\Users\salla\Documents\c#\s14_events\assignment\bin\Debug\net7.0-windows\assignment.deps.json
+C:\Users\salla\Documents\c#\s14_events\assignment\bin\Debug\net7.0-windows\assignment.runtimeconfig.json
+C:\Users\salla\Documents\c#\s14_events\assignment\bin\Debug\net7.0-windows\assignment.dll
+C:\Users\salla\Documents\c#\s14_events\assignment\bin\Debug\net7.0-windows\assignment.pdb
+C:\Users\salla\Documents\c#\s14_events\assignment\obj\Debug\net7.0-windows\assignment.csproj.GenerateResource.cache
+C:\Users\salla\Documents\c#\s14_events\assignment\obj\Debug\net7.0-windows\assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s14_events\assignment\obj\Debug\net7.0-windows\assignment.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s14_events\assignment\obj\Debug\net7.0-windows\assignment.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s14_events\assignment\obj\Debug\net7.0-windows\assignment.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s14_events\assignment\obj\Debug\net7.0-windows\assignment.dll
+C:\Users\salla\Documents\c#\s14_events\assignment\obj\Debug\net7.0-windows\refint\assignment.dll
+C:\Users\salla\Documents\c#\s14_events\assignment\obj\Debug\net7.0-windows\assignment.pdb
+C:\Users\salla\Documents\c#\s14_events\assignment\obj\Debug\net7.0-windows\assignment.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s14_events\assignment\obj\Debug\net7.0-windows\ref\assignment.dll
+C:\Users\salla\Documents\c#\s14_events\assignment\obj\Debug\net7.0-windows\assignment.MainForm.resources

@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s6_generics\delegates\bin\Debug\net7.0\delegates.exe
+C:\Users\salla\Documents\c#\s6_generics\delegates\bin\Debug\net7.0\delegates.deps.json
+C:\Users\salla\Documents\c#\s6_generics\delegates\bin\Debug\net7.0\delegates.runtimeconfig.json
+C:\Users\salla\Documents\c#\s6_generics\delegates\bin\Debug\net7.0\delegates.dll
+C:\Users\salla\Documents\c#\s6_generics\delegates\bin\Debug\net7.0\delegates.pdb
+C:\Users\salla\Documents\c#\s6_generics\delegates\obj\Debug\net7.0\delegates.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s6_generics\delegates\obj\Debug\net7.0\delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s6_generics\delegates\obj\Debug\net7.0\delegates.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s6_generics\delegates\obj\Debug\net7.0\delegates.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s6_generics\delegates\obj\Debug\net7.0\delegates.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s6_generics\delegates\obj\Debug\net7.0\delegates.dll
+C:\Users\salla\Documents\c#\s6_generics\delegates\obj\Debug\net7.0\refint\delegates.dll
+C:\Users\salla\Documents\c#\s6_generics\delegates\obj\Debug\net7.0\delegates.pdb
+C:\Users\salla\Documents\c#\s6_generics\delegates\obj\Debug\net7.0\delegates.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s6_generics\delegates\obj\Debug\net7.0\ref\delegates.dll

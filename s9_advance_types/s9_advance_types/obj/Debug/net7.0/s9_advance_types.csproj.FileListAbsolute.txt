@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s9_advance_types\s9_advance_types\bin\Debug\net7.0\s9_advance_types.exe
+C:\Users\salla\Documents\c#\s9_advance_types\s9_advance_types\bin\Debug\net7.0\s9_advance_types.deps.json
+C:\Users\salla\Documents\c#\s9_advance_types\s9_advance_types\bin\Debug\net7.0\s9_advance_types.runtimeconfig.json
+C:\Users\salla\Documents\c#\s9_advance_types\s9_advance_types\bin\Debug\net7.0\s9_advance_types.dll
+C:\Users\salla\Documents\c#\s9_advance_types\s9_advance_types\bin\Debug\net7.0\s9_advance_types.pdb
+C:\Users\salla\Documents\c#\s9_advance_types\s9_advance_types\obj\Debug\net7.0\s9_advance_types.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s9_advance_types\s9_advance_types\obj\Debug\net7.0\s9_advance_types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s9_advance_types\s9_advance_types\obj\Debug\net7.0\s9_advance_types.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s9_advance_types\s9_advance_types\obj\Debug\net7.0\s9_advance_types.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s9_advance_types\s9_advance_types\obj\Debug\net7.0\s9_advance_types.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s9_advance_types\s9_advance_types\obj\Debug\net7.0\s9_advance_types.dll
+C:\Users\salla\Documents\c#\s9_advance_types\s9_advance_types\obj\Debug\net7.0\refint\s9_advance_types.dll
+C:\Users\salla\Documents\c#\s9_advance_types\s9_advance_types\obj\Debug\net7.0\s9_advance_types.pdb
+C:\Users\salla\Documents\c#\s9_advance_types\s9_advance_types\obj\Debug\net7.0\s9_advance_types.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s9_advance_types\s9_advance_types\obj\Debug\net7.0\ref\s9_advance_types.dll

@@ -1,0 +1,14 @@
+C:\Users\salla\Documents\c#\s10_collections\hashSet\bin\Debug\net7.0\hashSet.exe
+C:\Users\salla\Documents\c#\s10_collections\hashSet\bin\Debug\net7.0\hashSet.deps.json
+C:\Users\salla\Documents\c#\s10_collections\hashSet\bin\Debug\net7.0\hashSet.runtimeconfig.json
+C:\Users\salla\Documents\c#\s10_collections\hashSet\bin\Debug\net7.0\hashSet.dll
+C:\Users\salla\Documents\c#\s10_collections\hashSet\bin\Debug\net7.0\hashSet.pdb
+C:\Users\salla\Documents\c#\s10_collections\hashSet\obj\Debug\net7.0\hashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s10_collections\hashSet\obj\Debug\net7.0\hashSet.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s10_collections\hashSet\obj\Debug\net7.0\hashSet.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s10_collections\hashSet\obj\Debug\net7.0\hashSet.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s10_collections\hashSet\obj\Debug\net7.0\hashSet.dll
+C:\Users\salla\Documents\c#\s10_collections\hashSet\obj\Debug\net7.0\refint\hashSet.dll
+C:\Users\salla\Documents\c#\s10_collections\hashSet\obj\Debug\net7.0\hashSet.pdb
+C:\Users\salla\Documents\c#\s10_collections\hashSet\obj\Debug\net7.0\hashSet.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s10_collections\hashSet\obj\Debug\net7.0\ref\hashSet.dll

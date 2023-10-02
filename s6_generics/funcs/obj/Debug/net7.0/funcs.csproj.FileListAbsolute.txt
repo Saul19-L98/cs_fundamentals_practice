@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s6_generics\funcs\bin\Debug\net7.0\funcs.exe
+C:\Users\salla\Documents\c#\s6_generics\funcs\bin\Debug\net7.0\funcs.deps.json
+C:\Users\salla\Documents\c#\s6_generics\funcs\bin\Debug\net7.0\funcs.runtimeconfig.json
+C:\Users\salla\Documents\c#\s6_generics\funcs\bin\Debug\net7.0\funcs.dll
+C:\Users\salla\Documents\c#\s6_generics\funcs\bin\Debug\net7.0\funcs.pdb
+C:\Users\salla\Documents\c#\s6_generics\funcs\obj\Debug\net7.0\funcs.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s6_generics\funcs\obj\Debug\net7.0\funcs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s6_generics\funcs\obj\Debug\net7.0\funcs.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s6_generics\funcs\obj\Debug\net7.0\funcs.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s6_generics\funcs\obj\Debug\net7.0\funcs.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s6_generics\funcs\obj\Debug\net7.0\funcs.dll
+C:\Users\salla\Documents\c#\s6_generics\funcs\obj\Debug\net7.0\refint\funcs.dll
+C:\Users\salla\Documents\c#\s6_generics\funcs\obj\Debug\net7.0\funcs.pdb
+C:\Users\salla\Documents\c#\s6_generics\funcs\obj\Debug\net7.0\funcs.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s6_generics\funcs\obj\Debug\net7.0\ref\funcs.dll

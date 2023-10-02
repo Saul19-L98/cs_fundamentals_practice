@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s6_generics\s6_generics\bin\Debug\net6.0\s6_generics.exe
+C:\Users\salla\Documents\c#\s6_generics\s6_generics\bin\Debug\net6.0\s6_generics.deps.json
+C:\Users\salla\Documents\c#\s6_generics\s6_generics\bin\Debug\net6.0\s6_generics.runtimeconfig.json
+C:\Users\salla\Documents\c#\s6_generics\s6_generics\bin\Debug\net6.0\s6_generics.dll
+C:\Users\salla\Documents\c#\s6_generics\s6_generics\bin\Debug\net6.0\s6_generics.pdb
+C:\Users\salla\Documents\c#\s6_generics\s6_generics\obj\Debug\net6.0\s6_generics.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s6_generics\s6_generics\obj\Debug\net6.0\s6_generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s6_generics\s6_generics\obj\Debug\net6.0\s6_generics.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s6_generics\s6_generics\obj\Debug\net6.0\s6_generics.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s6_generics\s6_generics\obj\Debug\net6.0\s6_generics.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s6_generics\s6_generics\obj\Debug\net6.0\s6_generics.dll
+C:\Users\salla\Documents\c#\s6_generics\s6_generics\obj\Debug\net6.0\refint\s6_generics.dll
+C:\Users\salla\Documents\c#\s6_generics\s6_generics\obj\Debug\net6.0\s6_generics.pdb
+C:\Users\salla\Documents\c#\s6_generics\s6_generics\obj\Debug\net6.0\s6_generics.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s6_generics\s6_generics\obj\Debug\net6.0\ref\s6_generics.dll

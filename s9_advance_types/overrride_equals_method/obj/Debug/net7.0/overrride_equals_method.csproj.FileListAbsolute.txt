@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s9_advance_types\overrride_equals_method\bin\Debug\net7.0\overrride_equals_method.exe
+C:\Users\salla\Documents\c#\s9_advance_types\overrride_equals_method\bin\Debug\net7.0\overrride_equals_method.deps.json
+C:\Users\salla\Documents\c#\s9_advance_types\overrride_equals_method\bin\Debug\net7.0\overrride_equals_method.runtimeconfig.json
+C:\Users\salla\Documents\c#\s9_advance_types\overrride_equals_method\bin\Debug\net7.0\overrride_equals_method.dll
+C:\Users\salla\Documents\c#\s9_advance_types\overrride_equals_method\bin\Debug\net7.0\overrride_equals_method.pdb
+C:\Users\salla\Documents\c#\s9_advance_types\overrride_equals_method\obj\Debug\net7.0\overrride_equals_method.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s9_advance_types\overrride_equals_method\obj\Debug\net7.0\overrride_equals_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s9_advance_types\overrride_equals_method\obj\Debug\net7.0\overrride_equals_method.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s9_advance_types\overrride_equals_method\obj\Debug\net7.0\overrride_equals_method.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s9_advance_types\overrride_equals_method\obj\Debug\net7.0\overrride_equals_method.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s9_advance_types\overrride_equals_method\obj\Debug\net7.0\overrride_equals_method.dll
+C:\Users\salla\Documents\c#\s9_advance_types\overrride_equals_method\obj\Debug\net7.0\refint\overrride_equals_method.dll
+C:\Users\salla\Documents\c#\s9_advance_types\overrride_equals_method\obj\Debug\net7.0\overrride_equals_method.pdb
+C:\Users\salla\Documents\c#\s9_advance_types\overrride_equals_method\obj\Debug\net7.0\overrride_equals_method.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s9_advance_types\overrride_equals_method\obj\Debug\net7.0\ref\overrride_equals_method.dll

@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s8_net\disponseMehtod\bin\Debug\net7.0\disponseMehtod.exe
+C:\Users\salla\Documents\c#\s8_net\disponseMehtod\bin\Debug\net7.0\disponseMehtod.deps.json
+C:\Users\salla\Documents\c#\s8_net\disponseMehtod\bin\Debug\net7.0\disponseMehtod.runtimeconfig.json
+C:\Users\salla\Documents\c#\s8_net\disponseMehtod\bin\Debug\net7.0\disponseMehtod.dll
+C:\Users\salla\Documents\c#\s8_net\disponseMehtod\bin\Debug\net7.0\disponseMehtod.pdb
+C:\Users\salla\Documents\c#\s8_net\disponseMehtod\obj\Debug\net7.0\disponseMehtod.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s8_net\disponseMehtod\obj\Debug\net7.0\disponseMehtod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s8_net\disponseMehtod\obj\Debug\net7.0\disponseMehtod.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s8_net\disponseMehtod\obj\Debug\net7.0\disponseMehtod.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s8_net\disponseMehtod\obj\Debug\net7.0\disponseMehtod.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s8_net\disponseMehtod\obj\Debug\net7.0\disponseMehtod.dll
+C:\Users\salla\Documents\c#\s8_net\disponseMehtod\obj\Debug\net7.0\refint\disponseMehtod.dll
+C:\Users\salla\Documents\c#\s8_net\disponseMehtod\obj\Debug\net7.0\disponseMehtod.pdb
+C:\Users\salla\Documents\c#\s8_net\disponseMehtod\obj\Debug\net7.0\disponseMehtod.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s8_net\disponseMehtod\obj\Debug\net7.0\ref\disponseMehtod.dll

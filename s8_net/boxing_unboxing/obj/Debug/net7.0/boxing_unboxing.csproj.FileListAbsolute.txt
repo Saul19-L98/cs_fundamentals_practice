@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s8_net\boxing_unboxing\bin\Debug\net7.0\boxing_unboxing.exe
+C:\Users\salla\Documents\c#\s8_net\boxing_unboxing\bin\Debug\net7.0\boxing_unboxing.deps.json
+C:\Users\salla\Documents\c#\s8_net\boxing_unboxing\bin\Debug\net7.0\boxing_unboxing.runtimeconfig.json
+C:\Users\salla\Documents\c#\s8_net\boxing_unboxing\bin\Debug\net7.0\boxing_unboxing.dll
+C:\Users\salla\Documents\c#\s8_net\boxing_unboxing\bin\Debug\net7.0\boxing_unboxing.pdb
+C:\Users\salla\Documents\c#\s8_net\boxing_unboxing\obj\Debug\net7.0\boxing_unboxing.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s8_net\boxing_unboxing\obj\Debug\net7.0\boxing_unboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s8_net\boxing_unboxing\obj\Debug\net7.0\boxing_unboxing.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s8_net\boxing_unboxing\obj\Debug\net7.0\boxing_unboxing.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s8_net\boxing_unboxing\obj\Debug\net7.0\boxing_unboxing.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s8_net\boxing_unboxing\obj\Debug\net7.0\boxing_unboxing.dll
+C:\Users\salla\Documents\c#\s8_net\boxing_unboxing\obj\Debug\net7.0\refint\boxing_unboxing.dll
+C:\Users\salla\Documents\c#\s8_net\boxing_unboxing\obj\Debug\net7.0\boxing_unboxing.pdb
+C:\Users\salla\Documents\c#\s8_net\boxing_unboxing\obj\Debug\net7.0\boxing_unboxing.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s8_net\boxing_unboxing\obj\Debug\net7.0\ref\boxing_unboxing.dll

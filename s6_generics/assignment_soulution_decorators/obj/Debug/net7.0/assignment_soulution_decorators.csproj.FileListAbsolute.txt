@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s6_generics\assignment_soulution_decorators\bin\Debug\net7.0\assignment_soulution_decorators.exe
+C:\Users\salla\Documents\c#\s6_generics\assignment_soulution_decorators\bin\Debug\net7.0\assignment_soulution_decorators.deps.json
+C:\Users\salla\Documents\c#\s6_generics\assignment_soulution_decorators\bin\Debug\net7.0\assignment_soulution_decorators.runtimeconfig.json
+C:\Users\salla\Documents\c#\s6_generics\assignment_soulution_decorators\bin\Debug\net7.0\assignment_soulution_decorators.dll
+C:\Users\salla\Documents\c#\s6_generics\assignment_soulution_decorators\bin\Debug\net7.0\assignment_soulution_decorators.pdb
+C:\Users\salla\Documents\c#\s6_generics\assignment_soulution_decorators\obj\Debug\net7.0\assignment_soulution_decorators.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s6_generics\assignment_soulution_decorators\obj\Debug\net7.0\assignment_soulution_decorators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s6_generics\assignment_soulution_decorators\obj\Debug\net7.0\assignment_soulution_decorators.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s6_generics\assignment_soulution_decorators\obj\Debug\net7.0\assignment_soulution_decorators.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s6_generics\assignment_soulution_decorators\obj\Debug\net7.0\assignment_soulution_decorators.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s6_generics\assignment_soulution_decorators\obj\Debug\net7.0\assignment_soulution_decorators.dll
+C:\Users\salla\Documents\c#\s6_generics\assignment_soulution_decorators\obj\Debug\net7.0\refint\assignment_soulution_decorators.dll
+C:\Users\salla\Documents\c#\s6_generics\assignment_soulution_decorators\obj\Debug\net7.0\assignment_soulution_decorators.pdb
+C:\Users\salla\Documents\c#\s6_generics\assignment_soulution_decorators\obj\Debug\net7.0\assignment_soulution_decorators.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s6_generics\assignment_soulution_decorators\obj\Debug\net7.0\ref\assignment_soulution_decorators.dll

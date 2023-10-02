@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "wteRmCyqLPRoQuhvp0HeQsom4cYMXOc9iFT2N+mtfZP1I72oRB5pzPrZGYUpIHbOx2hd5/DG0rEStAgSKF3lGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\salla\\Documents\\c#\\s15_testing\\mocksTests\\mocksTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\salla\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\salla\\.nuget\\packages\\microsoft.codecoverage\\17.7.2\\microsoft.codecoverage.17.7.2.nupkg.sha512",
+    "C:\\Users\\salla\\.nuget\\packages\\microsoft.net.test.sdk\\17.7.2\\microsoft.net.test.sdk.17.7.2.nupkg.sha512",
+    "C:\\Users\\salla\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\salla\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.7.2\\microsoft.testplatform.objectmodel.17.7.2.nupkg.sha512",
+    "C:\\Users\\salla\\.nuget\\packages\\microsoft.testplatform.testhost\\17.7.2\\microsoft.testplatform.testhost.17.7.2.nupkg.sha512",
+    "C:\\Users\\salla\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\salla\\.nuget\\packages\\moq\\4.20.69\\moq.4.20.69.nupkg.sha512",
+    "C:\\Users\\salla\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\salla\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\salla\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\salla\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\salla\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\salla\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\salla\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\salla\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\salla\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\salla\\.nuget\\packages\\system.data.sqlclient\\4.8.5\\system.data.sqlclient.4.8.5.nupkg.sha512",
+    "C:\\Users\\salla\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\salla\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\salla\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\salla\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

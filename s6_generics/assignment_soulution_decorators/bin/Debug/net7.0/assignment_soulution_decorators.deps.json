@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "assignment_soulution_decorators/1.0.0": {
+        "runtime": {
+          "assignment_soulution_decorators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "assignment_soulution_decorators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

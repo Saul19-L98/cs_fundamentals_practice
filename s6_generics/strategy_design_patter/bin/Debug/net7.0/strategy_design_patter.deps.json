@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "strategy_design_patter/1.0.0": {
+        "runtime": {
+          "strategy_design_patter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "strategy_design_patter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\assignment_errorHandling\bin\Debug\net6.0\assignment_errorHandling.exe
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\assignment_errorHandling\bin\Debug\net6.0\assignment_errorHandling.deps.json
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\assignment_errorHandling\bin\Debug\net6.0\assignment_errorHandling.runtimeconfig.json
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\assignment_errorHandling\bin\Debug\net6.0\assignment_errorHandling.dll
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\assignment_errorHandling\bin\Debug\net6.0\assignment_errorHandling.pdb
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\assignment_errorHandling\obj\Debug\net6.0\assignment_errorHandling.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\assignment_errorHandling\obj\Debug\net6.0\assignment_errorHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\assignment_errorHandling\obj\Debug\net6.0\assignment_errorHandling.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\assignment_errorHandling\obj\Debug\net6.0\assignment_errorHandling.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\assignment_errorHandling\obj\Debug\net6.0\assignment_errorHandling.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\assignment_errorHandling\obj\Debug\net6.0\assignment_errorHandling.dll
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\assignment_errorHandling\obj\Debug\net6.0\refint\assignment_errorHandling.dll
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\assignment_errorHandling\obj\Debug\net6.0\assignment_errorHandling.pdb
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\assignment_errorHandling\obj\Debug\net6.0\assignment_errorHandling.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\assignment_errorHandling\obj\Debug\net6.0\ref\assignment_errorHandling.dll

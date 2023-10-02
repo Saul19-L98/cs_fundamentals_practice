@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\s5_exception&errorhandling\bin\Debug\net6.0\s5_exception&errorhandling.exe
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\s5_exception&errorhandling\bin\Debug\net6.0\s5_exception&errorhandling.deps.json
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\s5_exception&errorhandling\bin\Debug\net6.0\s5_exception&errorhandling.runtimeconfig.json
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\s5_exception&errorhandling\bin\Debug\net6.0\s5_exception&errorhandling.dll
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\s5_exception&errorhandling\bin\Debug\net6.0\s5_exception&errorhandling.pdb
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\s5_exception&errorhandling\obj\Debug\net6.0\s5_exception&errorhandling.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\s5_exception&errorhandling\obj\Debug\net6.0\s5_exception&errorhandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\s5_exception&errorhandling\obj\Debug\net6.0\s5_exception&errorhandling.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\s5_exception&errorhandling\obj\Debug\net6.0\s5_exception&errorhandling.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\s5_exception&errorhandling\obj\Debug\net6.0\s5_exception&errorhandling.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\s5_exception&errorhandling\obj\Debug\net6.0\s5_exception&errorhandling.dll
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\s5_exception&errorhandling\obj\Debug\net6.0\refint\s5_exception&errorhandling.dll
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\s5_exception&errorhandling\obj\Debug\net6.0\s5_exception&errorhandling.pdb
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\s5_exception&errorhandling\obj\Debug\net6.0\s5_exception&errorhandling.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s5_exception&errorhandling\s5_exception&errorhandling\obj\Debug\net6.0\ref\s5_exception&errorhandling.dll

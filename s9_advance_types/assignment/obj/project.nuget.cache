@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RnteGBk9N5fWbJNe+rTPK3gYe0OS2Dz4ddECffyheEcVEuQFQHC5dHh2Cq9PYTn3az5mq7Anu1cVfDKlTjmZGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\salla\\Documents\\c#\\s9_advance_types\\assignment\\assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\salla\\.nuget\\packages\\consoletables\\2.5.0\\consoletables.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

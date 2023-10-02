@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s9_advance_types\attributes\bin\Debug\net7.0\attributes.exe
+C:\Users\salla\Documents\c#\s9_advance_types\attributes\bin\Debug\net7.0\attributes.deps.json
+C:\Users\salla\Documents\c#\s9_advance_types\attributes\bin\Debug\net7.0\attributes.runtimeconfig.json
+C:\Users\salla\Documents\c#\s9_advance_types\attributes\bin\Debug\net7.0\attributes.dll
+C:\Users\salla\Documents\c#\s9_advance_types\attributes\bin\Debug\net7.0\attributes.pdb
+C:\Users\salla\Documents\c#\s9_advance_types\attributes\obj\Debug\net7.0\attributes.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s9_advance_types\attributes\obj\Debug\net7.0\attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s9_advance_types\attributes\obj\Debug\net7.0\attributes.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s9_advance_types\attributes\obj\Debug\net7.0\attributes.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s9_advance_types\attributes\obj\Debug\net7.0\attributes.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s9_advance_types\attributes\obj\Debug\net7.0\attributes.dll
+C:\Users\salla\Documents\c#\s9_advance_types\attributes\obj\Debug\net7.0\refint\attributes.dll
+C:\Users\salla\Documents\c#\s9_advance_types\attributes\obj\Debug\net7.0\attributes.pdb
+C:\Users\salla\Documents\c#\s9_advance_types\attributes\obj\Debug\net7.0\attributes.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s9_advance_types\attributes\obj\Debug\net7.0\ref\attributes.dll

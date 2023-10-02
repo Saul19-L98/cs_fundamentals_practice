@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s7_LINQ\contain\bin\Debug\net7.0\contain.exe
+C:\Users\salla\Documents\c#\s7_LINQ\contain\bin\Debug\net7.0\contain.deps.json
+C:\Users\salla\Documents\c#\s7_LINQ\contain\bin\Debug\net7.0\contain.runtimeconfig.json
+C:\Users\salla\Documents\c#\s7_LINQ\contain\bin\Debug\net7.0\contain.dll
+C:\Users\salla\Documents\c#\s7_LINQ\contain\bin\Debug\net7.0\contain.pdb
+C:\Users\salla\Documents\c#\s7_LINQ\contain\obj\Debug\net7.0\contain.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s7_LINQ\contain\obj\Debug\net7.0\contain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s7_LINQ\contain\obj\Debug\net7.0\contain.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s7_LINQ\contain\obj\Debug\net7.0\contain.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s7_LINQ\contain\obj\Debug\net7.0\contain.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s7_LINQ\contain\obj\Debug\net7.0\contain.dll
+C:\Users\salla\Documents\c#\s7_LINQ\contain\obj\Debug\net7.0\refint\contain.dll
+C:\Users\salla\Documents\c#\s7_LINQ\contain\obj\Debug\net7.0\contain.pdb
+C:\Users\salla\Documents\c#\s7_LINQ\contain\obj\Debug\net7.0\contain.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s7_LINQ\contain\obj\Debug\net7.0\ref\contain.dll

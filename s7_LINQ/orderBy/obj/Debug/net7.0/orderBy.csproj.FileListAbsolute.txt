@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s7_LINQ\orderBy\bin\Debug\net7.0\orderBy.exe
+C:\Users\salla\Documents\c#\s7_LINQ\orderBy\bin\Debug\net7.0\orderBy.deps.json
+C:\Users\salla\Documents\c#\s7_LINQ\orderBy\bin\Debug\net7.0\orderBy.runtimeconfig.json
+C:\Users\salla\Documents\c#\s7_LINQ\orderBy\bin\Debug\net7.0\orderBy.dll
+C:\Users\salla\Documents\c#\s7_LINQ\orderBy\bin\Debug\net7.0\orderBy.pdb
+C:\Users\salla\Documents\c#\s7_LINQ\orderBy\obj\Debug\net7.0\orderBy.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s7_LINQ\orderBy\obj\Debug\net7.0\orderBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s7_LINQ\orderBy\obj\Debug\net7.0\orderBy.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s7_LINQ\orderBy\obj\Debug\net7.0\orderBy.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s7_LINQ\orderBy\obj\Debug\net7.0\orderBy.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s7_LINQ\orderBy\obj\Debug\net7.0\orderBy.dll
+C:\Users\salla\Documents\c#\s7_LINQ\orderBy\obj\Debug\net7.0\refint\orderBy.dll
+C:\Users\salla\Documents\c#\s7_LINQ\orderBy\obj\Debug\net7.0\orderBy.pdb
+C:\Users\salla\Documents\c#\s7_LINQ\orderBy\obj\Debug\net7.0\orderBy.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s7_LINQ\orderBy\obj\Debug\net7.0\ref\orderBy.dll

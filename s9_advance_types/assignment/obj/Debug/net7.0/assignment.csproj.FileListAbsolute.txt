@@ -1,0 +1,17 @@
+C:\Users\salla\Documents\c#\s9_advance_types\assignment\bin\Debug\net7.0\assignment.exe
+C:\Users\salla\Documents\c#\s9_advance_types\assignment\bin\Debug\net7.0\assignment.deps.json
+C:\Users\salla\Documents\c#\s9_advance_types\assignment\bin\Debug\net7.0\assignment.runtimeconfig.json
+C:\Users\salla\Documents\c#\s9_advance_types\assignment\bin\Debug\net7.0\assignment.dll
+C:\Users\salla\Documents\c#\s9_advance_types\assignment\bin\Debug\net7.0\assignment.pdb
+C:\Users\salla\Documents\c#\s9_advance_types\assignment\obj\Debug\net7.0\assignment.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s9_advance_types\assignment\obj\Debug\net7.0\assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s9_advance_types\assignment\obj\Debug\net7.0\assignment.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s9_advance_types\assignment\obj\Debug\net7.0\assignment.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s9_advance_types\assignment\obj\Debug\net7.0\assignment.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s9_advance_types\assignment\obj\Debug\net7.0\assignment.dll
+C:\Users\salla\Documents\c#\s9_advance_types\assignment\obj\Debug\net7.0\refint\assignment.dll
+C:\Users\salla\Documents\c#\s9_advance_types\assignment\obj\Debug\net7.0\assignment.pdb
+C:\Users\salla\Documents\c#\s9_advance_types\assignment\obj\Debug\net7.0\assignment.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s9_advance_types\assignment\obj\Debug\net7.0\ref\assignment.dll
+C:\Users\salla\Documents\c#\s9_advance_types\assignment\bin\Debug\net7.0\ConsoleTables.dll
+C:\Users\salla\Documents\c#\s9_advance_types\assignment\obj\Debug\net7.0\assignment.csproj.CopyComplete

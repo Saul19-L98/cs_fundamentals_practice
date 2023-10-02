@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\CookieCookbook\bin\Debug\net6.0\CookieCookbook.exe
+C:\Users\salla\Documents\c#\CookieCookbook\bin\Debug\net6.0\CookieCookbook.deps.json
+C:\Users\salla\Documents\c#\CookieCookbook\bin\Debug\net6.0\CookieCookbook.runtimeconfig.json
+C:\Users\salla\Documents\c#\CookieCookbook\bin\Debug\net6.0\CookieCookbook.dll
+C:\Users\salla\Documents\c#\CookieCookbook\bin\Debug\net6.0\CookieCookbook.pdb
+C:\Users\salla\Documents\c#\CookieCookbook\obj\Debug\net6.0\CookieCookbook.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\CookieCookbook\obj\Debug\net6.0\CookieCookbook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\CookieCookbook\obj\Debug\net6.0\CookieCookbook.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\CookieCookbook\obj\Debug\net6.0\CookieCookbook.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\CookieCookbook\obj\Debug\net6.0\CookieCookbook.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\CookieCookbook\obj\Debug\net6.0\CookieCookbook.dll
+C:\Users\salla\Documents\c#\CookieCookbook\obj\Debug\net6.0\refint\CookieCookbook.dll
+C:\Users\salla\Documents\c#\CookieCookbook\obj\Debug\net6.0\CookieCookbook.pdb
+C:\Users\salla\Documents\c#\CookieCookbook\obj\Debug\net6.0\CookieCookbook.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\CookieCookbook\obj\Debug\net6.0\ref\CookieCookbook.dll

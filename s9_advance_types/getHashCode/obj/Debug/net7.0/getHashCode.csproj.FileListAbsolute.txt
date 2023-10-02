@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s9_advance_types\getHashCode\bin\Debug\net7.0\getHashCode.exe
+C:\Users\salla\Documents\c#\s9_advance_types\getHashCode\bin\Debug\net7.0\getHashCode.deps.json
+C:\Users\salla\Documents\c#\s9_advance_types\getHashCode\bin\Debug\net7.0\getHashCode.runtimeconfig.json
+C:\Users\salla\Documents\c#\s9_advance_types\getHashCode\bin\Debug\net7.0\getHashCode.dll
+C:\Users\salla\Documents\c#\s9_advance_types\getHashCode\bin\Debug\net7.0\getHashCode.pdb
+C:\Users\salla\Documents\c#\s9_advance_types\getHashCode\obj\Debug\net7.0\getHashCode.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s9_advance_types\getHashCode\obj\Debug\net7.0\getHashCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s9_advance_types\getHashCode\obj\Debug\net7.0\getHashCode.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s9_advance_types\getHashCode\obj\Debug\net7.0\getHashCode.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s9_advance_types\getHashCode\obj\Debug\net7.0\getHashCode.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s9_advance_types\getHashCode\obj\Debug\net7.0\getHashCode.dll
+C:\Users\salla\Documents\c#\s9_advance_types\getHashCode\obj\Debug\net7.0\refint\getHashCode.dll
+C:\Users\salla\Documents\c#\s9_advance_types\getHashCode\obj\Debug\net7.0\getHashCode.pdb
+C:\Users\salla\Documents\c#\s9_advance_types\getHashCode\obj\Debug\net7.0\getHashCode.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s9_advance_types\getHashCode\obj\Debug\net7.0\ref\getHashCode.dll

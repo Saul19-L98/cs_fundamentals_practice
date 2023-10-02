@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s8_net\refKeyword\bin\Debug\net7.0\refKeyword.exe
+C:\Users\salla\Documents\c#\s8_net\refKeyword\bin\Debug\net7.0\refKeyword.deps.json
+C:\Users\salla\Documents\c#\s8_net\refKeyword\bin\Debug\net7.0\refKeyword.runtimeconfig.json
+C:\Users\salla\Documents\c#\s8_net\refKeyword\bin\Debug\net7.0\refKeyword.dll
+C:\Users\salla\Documents\c#\s8_net\refKeyword\bin\Debug\net7.0\refKeyword.pdb
+C:\Users\salla\Documents\c#\s8_net\refKeyword\obj\Debug\net7.0\refKeyword.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s8_net\refKeyword\obj\Debug\net7.0\refKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s8_net\refKeyword\obj\Debug\net7.0\refKeyword.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s8_net\refKeyword\obj\Debug\net7.0\refKeyword.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s8_net\refKeyword\obj\Debug\net7.0\refKeyword.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s8_net\refKeyword\obj\Debug\net7.0\refKeyword.dll
+C:\Users\salla\Documents\c#\s8_net\refKeyword\obj\Debug\net7.0\refint\refKeyword.dll
+C:\Users\salla\Documents\c#\s8_net\refKeyword\obj\Debug\net7.0\refKeyword.pdb
+C:\Users\salla\Documents\c#\s8_net\refKeyword\obj\Debug\net7.0\refKeyword.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s8_net\refKeyword\obj\Debug\net7.0\ref\refKeyword.dll

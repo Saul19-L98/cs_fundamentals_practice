@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Counter-Strike: Global Offensive",
+        "ranking": 4.5,
+        "release_year": 2012
+    }
+    {
+        "title": "Rainbow Six Siege",
+        "ranking": 4.4,
+        "release_year": 2015
+    },
+    {
+        "title": "Valorant",
+        "ranking": 4.6,
+        "release_year": 2020
+    },
+    {
+        "title": "Apex Legends",
+        "ranking": 4.3,
+        "release_year": 2019
+    },
+    {
+        "title": "Call of Duty: Modern Warfare",
+        "ranking": 4.7,
+        "release_year": 2019
+    },
+    {
+        "title": "Battlefield 2042",
+        "ranking": 3,
+        "release_year": 2021
+    }
+]

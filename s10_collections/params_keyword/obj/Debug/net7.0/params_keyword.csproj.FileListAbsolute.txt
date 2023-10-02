@@ -1,0 +1,14 @@
+C:\Users\salla\Documents\c#\s10_collections\params_keyword\bin\Debug\net7.0\params_keyword.exe
+C:\Users\salla\Documents\c#\s10_collections\params_keyword\bin\Debug\net7.0\params_keyword.deps.json
+C:\Users\salla\Documents\c#\s10_collections\params_keyword\bin\Debug\net7.0\params_keyword.runtimeconfig.json
+C:\Users\salla\Documents\c#\s10_collections\params_keyword\bin\Debug\net7.0\params_keyword.dll
+C:\Users\salla\Documents\c#\s10_collections\params_keyword\bin\Debug\net7.0\params_keyword.pdb
+C:\Users\salla\Documents\c#\s10_collections\params_keyword\obj\Debug\net7.0\params_keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s10_collections\params_keyword\obj\Debug\net7.0\params_keyword.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s10_collections\params_keyword\obj\Debug\net7.0\params_keyword.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s10_collections\params_keyword\obj\Debug\net7.0\params_keyword.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s10_collections\params_keyword\obj\Debug\net7.0\params_keyword.dll
+C:\Users\salla\Documents\c#\s10_collections\params_keyword\obj\Debug\net7.0\refint\params_keyword.dll
+C:\Users\salla\Documents\c#\s10_collections\params_keyword\obj\Debug\net7.0\params_keyword.pdb
+C:\Users\salla\Documents\c#\s10_collections\params_keyword\obj\Debug\net7.0\params_keyword.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s10_collections\params_keyword\obj\Debug\net7.0\ref\params_keyword.dll

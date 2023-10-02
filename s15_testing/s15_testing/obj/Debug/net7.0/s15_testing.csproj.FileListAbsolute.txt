@@ -1,0 +1,14 @@
+C:\Users\salla\Documents\c#\s15_testing\s15_testing\bin\Debug\net7.0\s15_testing.exe
+C:\Users\salla\Documents\c#\s15_testing\s15_testing\bin\Debug\net7.0\s15_testing.deps.json
+C:\Users\salla\Documents\c#\s15_testing\s15_testing\bin\Debug\net7.0\s15_testing.runtimeconfig.json
+C:\Users\salla\Documents\c#\s15_testing\s15_testing\bin\Debug\net7.0\s15_testing.dll
+C:\Users\salla\Documents\c#\s15_testing\s15_testing\bin\Debug\net7.0\s15_testing.pdb
+C:\Users\salla\Documents\c#\s15_testing\s15_testing\obj\Debug\net7.0\s15_testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s15_testing\s15_testing\obj\Debug\net7.0\s15_testing.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s15_testing\s15_testing\obj\Debug\net7.0\s15_testing.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s15_testing\s15_testing\obj\Debug\net7.0\s15_testing.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s15_testing\s15_testing\obj\Debug\net7.0\s15_testing.dll
+C:\Users\salla\Documents\c#\s15_testing\s15_testing\obj\Debug\net7.0\refint\s15_testing.dll
+C:\Users\salla\Documents\c#\s15_testing\s15_testing\obj\Debug\net7.0\s15_testing.pdb
+C:\Users\salla\Documents\c#\s15_testing\s15_testing\obj\Debug\net7.0\s15_testing.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s15_testing\s15_testing\obj\Debug\net7.0\ref\s15_testing.dll

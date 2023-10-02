@@ -1,0 +1,14 @@
+C:\Users\salla\Documents\c#\s10_collections\practice_yieldStatement\bin\Debug\net7.0\practice_yieldStatement.exe
+C:\Users\salla\Documents\c#\s10_collections\practice_yieldStatement\bin\Debug\net7.0\practice_yieldStatement.deps.json
+C:\Users\salla\Documents\c#\s10_collections\practice_yieldStatement\bin\Debug\net7.0\practice_yieldStatement.runtimeconfig.json
+C:\Users\salla\Documents\c#\s10_collections\practice_yieldStatement\bin\Debug\net7.0\practice_yieldStatement.dll
+C:\Users\salla\Documents\c#\s10_collections\practice_yieldStatement\bin\Debug\net7.0\practice_yieldStatement.pdb
+C:\Users\salla\Documents\c#\s10_collections\practice_yieldStatement\obj\Debug\net7.0\practice_yieldStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s10_collections\practice_yieldStatement\obj\Debug\net7.0\practice_yieldStatement.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s10_collections\practice_yieldStatement\obj\Debug\net7.0\practice_yieldStatement.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s10_collections\practice_yieldStatement\obj\Debug\net7.0\practice_yieldStatement.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s10_collections\practice_yieldStatement\obj\Debug\net7.0\practice_yieldStatement.dll
+C:\Users\salla\Documents\c#\s10_collections\practice_yieldStatement\obj\Debug\net7.0\refint\practice_yieldStatement.dll
+C:\Users\salla\Documents\c#\s10_collections\practice_yieldStatement\obj\Debug\net7.0\practice_yieldStatement.pdb
+C:\Users\salla\Documents\c#\s10_collections\practice_yieldStatement\obj\Debug\net7.0\practice_yieldStatement.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s10_collections\practice_yieldStatement\obj\Debug\net7.0\ref\practice_yieldStatement.dll

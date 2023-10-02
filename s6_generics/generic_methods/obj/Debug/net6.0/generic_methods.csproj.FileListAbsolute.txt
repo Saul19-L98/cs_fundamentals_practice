@@ -1,0 +1,15 @@
+C:\Users\salla\Documents\c#\s6_generics\generic_methods\bin\Debug\net6.0\generic_methods.exe
+C:\Users\salla\Documents\c#\s6_generics\generic_methods\bin\Debug\net6.0\generic_methods.deps.json
+C:\Users\salla\Documents\c#\s6_generics\generic_methods\bin\Debug\net6.0\generic_methods.runtimeconfig.json
+C:\Users\salla\Documents\c#\s6_generics\generic_methods\bin\Debug\net6.0\generic_methods.dll
+C:\Users\salla\Documents\c#\s6_generics\generic_methods\bin\Debug\net6.0\generic_methods.pdb
+C:\Users\salla\Documents\c#\s6_generics\generic_methods\obj\Debug\net6.0\generic_methods.csproj.AssemblyReference.cache
+C:\Users\salla\Documents\c#\s6_generics\generic_methods\obj\Debug\net6.0\generic_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla\Documents\c#\s6_generics\generic_methods\obj\Debug\net6.0\generic_methods.AssemblyInfoInputs.cache
+C:\Users\salla\Documents\c#\s6_generics\generic_methods\obj\Debug\net6.0\generic_methods.AssemblyInfo.cs
+C:\Users\salla\Documents\c#\s6_generics\generic_methods\obj\Debug\net6.0\generic_methods.csproj.CoreCompileInputs.cache
+C:\Users\salla\Documents\c#\s6_generics\generic_methods\obj\Debug\net6.0\generic_methods.dll
+C:\Users\salla\Documents\c#\s6_generics\generic_methods\obj\Debug\net6.0\refint\generic_methods.dll
+C:\Users\salla\Documents\c#\s6_generics\generic_methods\obj\Debug\net6.0\generic_methods.pdb
+C:\Users\salla\Documents\c#\s6_generics\generic_methods\obj\Debug\net6.0\generic_methods.genruntimeconfig.cache
+C:\Users\salla\Documents\c#\s6_generics\generic_methods\obj\Debug\net6.0\ref\generic_methods.dll
